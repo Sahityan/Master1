@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 just to check whethe working or not;
-Not to modif anything 
+have to perform multipleactions
+>>>>>>> version
